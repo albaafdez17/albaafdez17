@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**albaafdez17/albaafdez17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! 👋 Soy Alba
 
-Here are some ideas to get you started:
+💻 Estoy aprendiendo programación y desarrollando mis habilidades tecnológicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+- 🌱 Actualmente estoy aprendiendo Desarrollo de Aplicaciones Web.
+- 🎯 Mi objetivo es aprender y desarrollarme profesionalmente.
+- 📚 Me gusta aprender cosas nuevas y crear proyectos.
+- 🤝 Estoy abierto/a a colaborar y aprender de otras personas.
+
+## 🛠️ Tecnologías que estoy aprendiendo
+
+- HTML
+- CSS
+- Javascript
+- PHP
+- Angular
+- Git y GitHub
+
+## 📌 Mis objetivos
+
+- Crear mis primeros proyectos.
+- Mejorar mis habilidades de programación.
+- Construir mi portfolio.
+
+## 📫 Contacto
+
+- GitHub: albaafdez17 (https://github.com/albaafdez17)
